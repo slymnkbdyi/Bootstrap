@@ -1,0 +1,27 @@
+#menu {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#menu li {
+	float: left;
+	width: 150px;
+	position: relative;
+}
+#menu a {
+
+	font: 16px tahoma;
+	color: #fff;
+	text-decoration: none;
+	background-color: #00ccff;
+	display: block;
+	border: 1px solid #00ccff;
+	text-align:center;
+	line-height:30px;
+	margin-right:1px
+}
+#menu a:hover{
+
+	background-color: #0099ff;
+	color : #333;
+}

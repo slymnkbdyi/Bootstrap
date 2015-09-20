@@ -1,0 +1,65 @@
+body{background-color:#333; font:12px Arial; margin:auto}
+h2,p,form,textarea,{padding:0,margin:0,border:0}
+#genel{
+
+	width:1000px;
+	margin:30px;
+	border:5px solid #333;
+	overflow:auto;
+	background-color:#fff;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	
+}
+#header {
+
+	width:780px;
+	margin-left:60px;
+	border:1px solid #333;
+	background-color:#999;
+	color:#ddd;
+	height:100px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	
+
+}
+#header img{float:left;}
+h2{text-align:center;margin-top:20px;}
+p{width:700px ;text-align:center;margin-left:50px;}
+.text{border:1px solid #333 ;height:70px	;padding:5px; width:755px ;}
+
+
+
+#soru{ 
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #333;
+	background-color:#ccc;
+	color:red;
+	width:780px;
+	margin:30px auto;
+	padding:50px;
+	}
+.sol{font:bold 13px tahoma 	;margin-left:10px;float:left;}
+.sag{margin-right:30px;float:right; font-weight:bold;}
+
+#sonsoru{ 
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	border:1px solid #333;
+	background-color:#333;
+	color:#fff;
+	width:780px;
+	margin:30px auto;
+	padding:50px;
+	}
+.input{border:2px solid #333 ; width:300px;float:right;}
+.ilet{background-color:#000;border:1px solid #000 ;font:16px arial;color:#fff;float:right;margin-top:10px ;padding:15px;width:1280px;}
+#footer {background-color:#333;height:90px;margin-top:20px;}
+.footer{border:0px ; color:#fff;float:center;width:800px;margin: 0px auto;padding:0px;}
+#soru:hover{background-color:#ddd}
